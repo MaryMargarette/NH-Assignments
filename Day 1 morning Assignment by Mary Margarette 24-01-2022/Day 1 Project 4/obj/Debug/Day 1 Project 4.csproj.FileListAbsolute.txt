@@ -1,0 +1,11 @@
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\bin\Debug\Day 1 Project 4.exe.config
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\bin\Debug\Day 1 Project 4.exe
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\bin\Debug\Day 1 Project 4.pdb
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\obj\Debug\Day 1 Project 4.csproj.AssemblyReference.cache
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\obj\Debug\Day 1 Project 4.csproj.SuggestedBindingRedirects.cache
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\obj\Debug\Day_1_Project_4.Form1.resources
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\obj\Debug\Day_1_Project_4.Properties.Resources.resources
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\obj\Debug\Day 1 Project 4.csproj.GenerateResource.cache
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\obj\Debug\Day 1 Project 4.csproj.CoreCompileInputs.cache
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\obj\Debug\Day 1 Project 4.exe
+E:\Day 1 morning Assignment by Mary Margarette 24-01-2022\Day 1 Project 4\obj\Debug\Day 1 Project 4.pdb

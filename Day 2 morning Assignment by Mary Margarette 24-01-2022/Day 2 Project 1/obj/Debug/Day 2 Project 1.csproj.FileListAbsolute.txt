@@ -1,0 +1,7 @@
+E:\Day 2 morning Assignment by Mary Margarette 24-01-2022\Day 2 Project 1\bin\Debug\Day 2 Project 1.exe.config
+E:\Day 2 morning Assignment by Mary Margarette 24-01-2022\Day 2 Project 1\bin\Debug\Day 2 Project 1.exe
+E:\Day 2 morning Assignment by Mary Margarette 24-01-2022\Day 2 Project 1\bin\Debug\Day 2 Project 1.pdb
+E:\Day 2 morning Assignment by Mary Margarette 24-01-2022\Day 2 Project 1\obj\Debug\Day 2 Project 1.csproj.SuggestedBindingRedirects.cache
+E:\Day 2 morning Assignment by Mary Margarette 24-01-2022\Day 2 Project 1\obj\Debug\Day 2 Project 1.csproj.CoreCompileInputs.cache
+E:\Day 2 morning Assignment by Mary Margarette 24-01-2022\Day 2 Project 1\obj\Debug\Day 2 Project 1.exe
+E:\Day 2 morning Assignment by Mary Margarette 24-01-2022\Day 2 Project 1\obj\Debug\Day 2 Project 1.pdb

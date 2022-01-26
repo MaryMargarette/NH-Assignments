@@ -1,0 +1,7 @@
+E:\NH Assignments\Day 2 evening Assignment by Mary Margarette 25-01-2022\Day 2 Project 6\obj\Debug\Day 2 Project 6.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 2 evening Assignment by Mary Margarette 25-01-2022\Day 2 Project 6\obj\Debug\Day 2 Project 6.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 2 evening Assignment by Mary Margarette 25-01-2022\Day 2 Project 6\bin\Debug\Day 2 Project 6.exe.config
+E:\NH Assignments\Day 2 evening Assignment by Mary Margarette 25-01-2022\Day 2 Project 6\bin\Debug\Day 2 Project 6.exe
+E:\NH Assignments\Day 2 evening Assignment by Mary Margarette 25-01-2022\Day 2 Project 6\bin\Debug\Day 2 Project 6.pdb
+E:\NH Assignments\Day 2 evening Assignment by Mary Margarette 25-01-2022\Day 2 Project 6\obj\Debug\Day 2 Project 6.exe
+E:\NH Assignments\Day 2 evening Assignment by Mary Margarette 25-01-2022\Day 2 Project 6\obj\Debug\Day 2 Project 6.pdb

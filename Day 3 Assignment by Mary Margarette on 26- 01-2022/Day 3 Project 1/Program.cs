@@ -15,7 +15,7 @@ namespace Day_3_Project_1
 
             Console.WriteLine("Enter your name");
             name = Console.ReadLine();
-            Console.WriteLine("Hi{0}, Welcome to Margaret Quiz", name);
+            Console.WriteLine("Hi {0}, Welcome to Margaret {1} Quiz {2}", name,name,score);
             Console.WriteLine("Q1. Who is the music director of Bahubali ?");
             Console.WriteLine("1.S.Thaman  2.A.R.Rahman  3.M.M.Keeravani  4.Anup Rubens");
             Console.WriteLine("Enter your choice:");

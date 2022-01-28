@@ -1,0 +1,8 @@
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime check\bin\Debug\prime check.exe.config
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime check\bin\Debug\prime check.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime check\bin\Debug\prime check.pdb
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime check\obj\Debug\prime check.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime check\obj\Debug\prime check.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime check\obj\Debug\prime check.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime check\obj\Debug\prime check.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime check\obj\Debug\prime check.pdb

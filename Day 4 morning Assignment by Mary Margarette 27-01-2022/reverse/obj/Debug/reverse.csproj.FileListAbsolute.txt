@@ -1,0 +1,7 @@
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\reverse\bin\Debug\reverse.exe.config
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\reverse\bin\Debug\reverse.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\reverse\bin\Debug\reverse.pdb
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\reverse\obj\Debug\reverse.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\reverse\obj\Debug\reverse.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\reverse\obj\Debug\reverse.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\reverse\obj\Debug\reverse.pdb

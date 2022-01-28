@@ -1,0 +1,7 @@
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\palindrome\bin\Debug\palindrome.exe.config
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\palindrome\bin\Debug\palindrome.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\palindrome\bin\Debug\palindrome.pdb
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\palindrome\obj\Debug\palindrome.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\palindrome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\palindrome\obj\Debug\palindrome.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\palindrome\obj\Debug\palindrome.pdb

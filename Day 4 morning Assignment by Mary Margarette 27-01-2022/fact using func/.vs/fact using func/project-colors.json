@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c958e38d-ab48-40d3-8039-03d4cdaa5b68": {
+      "ProjectGuid": "c958e38d-ab48-40d3-8039-03d4cdaa5b68",
+      "DisplayName": "fact using func",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

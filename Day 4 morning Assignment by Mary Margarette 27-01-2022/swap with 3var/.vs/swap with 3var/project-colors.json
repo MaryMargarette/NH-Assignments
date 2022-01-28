@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbe85e0c-6b8d-4348-898b-f4c0c5962827": {
+      "ProjectGuid": "cbe85e0c-6b8d-4348-898b-f4c0c5962827",
+      "DisplayName": "swap with 3var",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

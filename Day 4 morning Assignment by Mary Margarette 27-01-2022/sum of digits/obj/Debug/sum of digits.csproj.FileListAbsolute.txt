@@ -1,0 +1,7 @@
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\sum of digits\bin\Debug\sum of digits.exe.config
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\sum of digits\bin\Debug\sum of digits.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\sum of digits\bin\Debug\sum of digits.pdb
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\sum of digits\obj\Debug\sum of digits.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\sum of digits\obj\Debug\sum of digits.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\sum of digits\obj\Debug\sum of digits.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\sum of digits\obj\Debug\sum of digits.pdb

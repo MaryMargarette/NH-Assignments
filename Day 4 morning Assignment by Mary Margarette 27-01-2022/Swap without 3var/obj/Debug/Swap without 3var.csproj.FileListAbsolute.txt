@@ -1,0 +1,7 @@
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\Swap without 3var\bin\Debug\Swap without 3var.exe.config
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\Swap without 3var\bin\Debug\Swap without 3var.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\Swap without 3var\bin\Debug\Swap without 3var.pdb
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\Swap without 3var\obj\Debug\Swap without 3var.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\Swap without 3var\obj\Debug\Swap without 3var.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\Swap without 3var\obj\Debug\Swap without 3var.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\Swap without 3var\obj\Debug\Swap without 3var.pdb

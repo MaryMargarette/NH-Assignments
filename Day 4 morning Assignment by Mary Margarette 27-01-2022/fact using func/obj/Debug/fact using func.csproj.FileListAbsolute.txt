@@ -1,0 +1,8 @@
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\fact using func\bin\Debug\fact using func.exe.config
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\fact using func\bin\Debug\fact using func.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\fact using func\bin\Debug\fact using func.pdb
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\fact using func\obj\Debug\fact using func.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\fact using func\obj\Debug\fact using func.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\fact using func\obj\Debug\fact using func.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\fact using func\obj\Debug\fact using func.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\fact using func\obj\Debug\fact using func.pdb

@@ -1,0 +1,7 @@
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime in range\bin\Debug\prime in range.exe.config
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime in range\bin\Debug\prime in range.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime in range\bin\Debug\prime in range.pdb
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime in range\obj\Debug\prime in range.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime in range\obj\Debug\prime in range.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime in range\obj\Debug\prime in range.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\prime in range\obj\Debug\prime in range.pdb

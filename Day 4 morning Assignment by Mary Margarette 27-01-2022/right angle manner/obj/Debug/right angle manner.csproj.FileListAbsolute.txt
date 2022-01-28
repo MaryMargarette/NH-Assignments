@@ -1,0 +1,8 @@
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\right angle manner\bin\Debug\right angle manner.exe.config
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\right angle manner\bin\Debug\right angle manner.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\right angle manner\bin\Debug\right angle manner.pdb
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\right angle manner\obj\Debug\right angle manner.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\right angle manner\obj\Debug\right angle manner.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\right angle manner\obj\Debug\right angle manner.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\right angle manner\obj\Debug\right angle manner.exe
+E:\NH Assignments\Day 5 morning Assignment by Mary Margarette on 27-01-2022\right angle manner\obj\Debug\right angle manner.pdb

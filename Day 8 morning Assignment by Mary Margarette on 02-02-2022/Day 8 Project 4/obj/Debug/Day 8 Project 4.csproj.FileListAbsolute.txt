@@ -1,0 +1,8 @@
+E:\NH Assignments\Day 8 morning Assignment by Mary Margarette on 02-02-2022\Day 8 Project 4\bin\Debug\Day 8 Project 4.exe.config
+E:\NH Assignments\Day 8 morning Assignment by Mary Margarette on 02-02-2022\Day 8 Project 4\bin\Debug\Day 8 Project 4.exe
+E:\NH Assignments\Day 8 morning Assignment by Mary Margarette on 02-02-2022\Day 8 Project 4\bin\Debug\Day 8 Project 4.pdb
+E:\NH Assignments\Day 8 morning Assignment by Mary Margarette on 02-02-2022\Day 8 Project 4\obj\Debug\Day 8 Project 4.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 8 morning Assignment by Mary Margarette on 02-02-2022\Day 8 Project 4\obj\Debug\Day 8 Project 4.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 8 morning Assignment by Mary Margarette on 02-02-2022\Day 8 Project 4\obj\Debug\Day 8 Project 4.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 8 morning Assignment by Mary Margarette on 02-02-2022\Day 8 Project 4\obj\Debug\Day 8 Project 4.exe
+E:\NH Assignments\Day 8 morning Assignment by Mary Margarette on 02-02-2022\Day 8 Project 4\obj\Debug\Day 8 Project 4.pdb

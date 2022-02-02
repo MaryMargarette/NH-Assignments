@@ -11,27 +11,25 @@ namespace Day_6_project_2
         static void Main(string[] args)
         {
             List<int> data = new List<int>();
-
-            int temp;
-            int sum1 = 0, sum2 = 0;
+            int sum = 0;
+            data.Add(1);
+            data.Add(2);
+            data.Add(3);
+            data.Add(4);
+            data.Add(5);
 
             // print values using foreach loop
-             for (int i = 0;i<data.Count;i++)
+            foreach (var d in data)
+
             {
-                Console.WriteLine(data[i]);
+                sum = sum + (int)d;
+
             }
 
-            //print values using foreach loop
-
-             foreach (var d in data)
-            {
-                Console.WriteLine(d);
-            }
-
-            // print values using lambda function
-            data.ForEach(p => Console.WriteLine(p));
+            Console.WriteLine("sum of given numbers"   + sum);
 
             Console.ReadLine();
+
         }
     }
 }

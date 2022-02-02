@@ -20,10 +20,13 @@ namespace Day_6_Project_1
             data.Add(83);
             data.Add(94);
 
-            foreach (var d in data)
-            { 
-                sum =sum + (int) d;
+            foreach(var d in data)
+            {
+                sum = sum + (int) d;
+                
             }
+            Console.WriteLine("sum of given numbers"  + sum);
+            Console.ReadLine();
         }
     }
 }

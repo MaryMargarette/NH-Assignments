@@ -1,0 +1,8 @@
+E:\NH Assignments\Teaching Assignment\Project 3\bin\Debug\Project 3.exe.config
+E:\NH Assignments\Teaching Assignment\Project 3\bin\Debug\Project 3.exe
+E:\NH Assignments\Teaching Assignment\Project 3\bin\Debug\Project 3.pdb
+E:\NH Assignments\Teaching Assignment\Project 3\obj\Debug\Project 3.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Teaching Assignment\Project 3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Teaching Assignment\Project 3\obj\Debug\Project 3.exe
+E:\NH Assignments\Teaching Assignment\Project 3\obj\Debug\Project 3.pdb
+E:\NH Assignments\Teaching Assignment\Project 3\obj\Debug\Project 3.csproj.AssemblyReference.cache

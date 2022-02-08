@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.csproj.AssemblyReference.cache
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.csproj.SuggestedBindingRedirects.cache
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.csproj.CoreCompileInputs.cache
@@ -6,3 +7,13 @@ E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\bin\Debug\Day 10 Project 3.pdb
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.exe
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.pdb
+=======
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\bin\Debug\Day 10 Project 3.exe.config
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\bin\Debug\Day 10 Project 3.exe
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\bin\Debug\Day 10 Project 3.pdb
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.exe
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 3\obj\Debug\Day 10 Project 3.pdb
+>>>>>>> 3eda5d4824ca952fa08a09ba0c6e3ae84aa2a14e

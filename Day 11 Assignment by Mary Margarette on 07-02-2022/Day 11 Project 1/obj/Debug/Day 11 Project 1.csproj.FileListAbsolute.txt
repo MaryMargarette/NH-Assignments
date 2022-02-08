@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.exe.config
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.exe
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.pdb
@@ -14,3 +15,21 @@ E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Proj
 E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.csproj.CoreCompileInputs.cache
 E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.exe
 E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.pdb
+=======
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.exe.config
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.exe
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.pdb
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.exe
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.pdb
+E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.exe.config
+E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.exe
+E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\bin\Debug\Day 11 Project 1.pdb
+E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.exe
+E:\NH Assignments\Day 11 Assignment by Mary Margarette on 07-02-2022\Day 11 Project 1\obj\Debug\Day 11 Project 1.pdb
+>>>>>>> 3eda5d4824ca952fa08a09ba0c6e3ae84aa2a14e

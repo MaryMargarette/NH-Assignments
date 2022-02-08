@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\bin\Debug\Day 10 Project 5.exe.config
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\bin\Debug\Day 10 Project 5.exe
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\bin\Debug\Day 10 Project 5.pdb
@@ -6,3 +7,13 @@ E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\obj\Debug\Day 10 Project 5.exe
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\obj\Debug\Day 10 Project 5.pdb
 E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\obj\Debug\Day 10 Project 5.csproj.AssemblyReference.cache
+=======
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\bin\Debug\Day 10 Project 5.exe.config
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\bin\Debug\Day 10 Project 5.exe
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\bin\Debug\Day 10 Project 5.pdb
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\obj\Debug\Day 10 Project 5.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\obj\Debug\Day 10 Project 5.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\obj\Debug\Day 10 Project 5.exe
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\obj\Debug\Day 10 Project 5.pdb
+E:\NH Assignments\Day 10 morning Assignment by Mary Margarette on 04-02-2022\Day 10 Project 5\obj\Debug\Day 10 Project 5.csproj.AssemblyReference.cache
+>>>>>>> 3eda5d4824ca952fa08a09ba0c6e3ae84aa2a14e

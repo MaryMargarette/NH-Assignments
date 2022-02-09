@@ -1,0 +1,7 @@
+E:\NH Assignments\Day 13 Assignment by Mary Margarette on 09-02-2022\Day 13 Project 8\bin\Debug\Day 13 Project 8.exe.config
+E:\NH Assignments\Day 13 Assignment by Mary Margarette on 09-02-2022\Day 13 Project 8\bin\Debug\Day 13 Project 8.exe
+E:\NH Assignments\Day 13 Assignment by Mary Margarette on 09-02-2022\Day 13 Project 8\bin\Debug\Day 13 Project 8.pdb
+E:\NH Assignments\Day 13 Assignment by Mary Margarette on 09-02-2022\Day 13 Project 8\obj\Debug\Day 13 Project 8.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 13 Assignment by Mary Margarette on 09-02-2022\Day 13 Project 8\obj\Debug\Day 13 Project 8.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 13 Assignment by Mary Margarette on 09-02-2022\Day 13 Project 8\obj\Debug\Day 13 Project 8.exe
+E:\NH Assignments\Day 13 Assignment by Mary Margarette on 09-02-2022\Day 13 Project 8\obj\Debug\Day 13 Project 8.pdb

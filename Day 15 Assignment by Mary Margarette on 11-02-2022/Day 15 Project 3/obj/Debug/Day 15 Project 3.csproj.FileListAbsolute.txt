@@ -1,0 +1,8 @@
+E:\NH Assignments\Day 15 Assignment by Mary Margarette on 11-02-2022\Day 15 Project 3\bin\Debug\Day 15 Project 3.exe.config
+E:\NH Assignments\Day 15 Assignment by Mary Margarette on 11-02-2022\Day 15 Project 3\bin\Debug\Day 15 Project 3.exe
+E:\NH Assignments\Day 15 Assignment by Mary Margarette on 11-02-2022\Day 15 Project 3\bin\Debug\Day 15 Project 3.pdb
+E:\NH Assignments\Day 15 Assignment by Mary Margarette on 11-02-2022\Day 15 Project 3\obj\Debug\Day 15 Project 3.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 15 Assignment by Mary Margarette on 11-02-2022\Day 15 Project 3\obj\Debug\Day 15 Project 3.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 15 Assignment by Mary Margarette on 11-02-2022\Day 15 Project 3\obj\Debug\Day 15 Project 3.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 15 Assignment by Mary Margarette on 11-02-2022\Day 15 Project 3\obj\Debug\Day 15 Project 3.exe
+E:\NH Assignments\Day 15 Assignment by Mary Margarette on 11-02-2022\Day 15 Project 3\obj\Debug\Day 15 Project 3.pdb

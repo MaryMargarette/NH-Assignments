@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be407a3f-6d85-4339-8c2a-43a65bb5d8e5": {
+      "ProjectGuid": "be407a3f-6d85-4339-8c2a-43a65bb5d8e5",
+      "DisplayName": "MaryLibrary1",
+      "ColorIndex": 0
+    },
+    "f0de1246-f510-42a2-8c4d-ea89281f39c1": {
+      "ProjectGuid": "f0de1246-f510-42a2-8c4d-ea89281f39c1",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "2b3e30f9-15c2-4728-85d4-7a8025f1a748": {
+      "ProjectGuid": "2b3e30f9-15c2-4728-85d4-7a8025f1a748",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 2
+    },
+    "351b4aae-4a8e-4f39-ab5c-328e27871ee8": {
+      "ProjectGuid": "351b4aae-4a8e-4f39-ab5c-328e27871ee8",
+      "DisplayName": "WinApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

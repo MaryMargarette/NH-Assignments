@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "213c712c-e234-486d-968c-f039d505119f": {
+      "ProjectGuid": "213c712c-e234-486d-968c-f039d505119f",
+      "DisplayName": "MarryLibrary",
+      "ColorIndex": 0
+    },
+    "0c39747f-56ea-4e0e-9247-2c3c78ac89f3": {
+      "ProjectGuid": "0c39747f-56ea-4e0e-9247-2c3c78ac89f3",
+      "DisplayName": "Day 16 Project 3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

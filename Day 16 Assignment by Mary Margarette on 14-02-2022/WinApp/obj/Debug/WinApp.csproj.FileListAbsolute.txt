@@ -1,0 +1,16 @@
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\bin\Debug\WinApp.exe.config
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\bin\Debug\WinApp.exe
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\bin\Debug\WinApp.pdb
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\bin\Debug\MaryLibrary1.dll
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\bin\Debug\PublicLibrary.dll
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\bin\Debug\MaryLibrary1.pdb
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\bin\Debug\PublicLibrary.pdb
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.Form1.resources
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.csproj.CopyComplete
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.exe
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\WinApp\obj\Debug\WinApp.pdb

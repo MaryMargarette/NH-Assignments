@@ -1,0 +1,5 @@
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\MarryLibrary\bin\Debug\MarryLibrary.dll
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\MarryLibrary\bin\Debug\MarryLibrary.pdb
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\MarryLibrary\obj\Debug\MarryLibrary.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\MarryLibrary\obj\Debug\MarryLibrary.dll
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\MarryLibrary\obj\Debug\MarryLibrary.pdb

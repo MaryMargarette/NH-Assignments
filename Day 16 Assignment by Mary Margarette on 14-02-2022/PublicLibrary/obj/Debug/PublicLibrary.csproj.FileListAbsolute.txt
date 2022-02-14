@@ -1,0 +1,5 @@
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\PublicLibrary\bin\Debug\PublicLibrary.dll
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\PublicLibrary\bin\Debug\PublicLibrary.pdb
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\PublicLibrary\obj\Debug\PublicLibrary.dll
+E:\NH Assignments\Day 16 Assignment by Mary Margarette on 14-02-2022\PublicLibrary\obj\Debug\PublicLibrary.pdb

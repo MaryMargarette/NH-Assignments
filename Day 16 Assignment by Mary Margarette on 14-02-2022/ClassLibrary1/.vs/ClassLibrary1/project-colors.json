@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0be41587-5fd0-46c4-ae25-431489ddc04f": {
+      "ProjectGuid": "0be41587-5fd0-46c4-ae25-431489ddc04f",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 0
+    },
+    "fcaa2ddf-20ab-4f64-a5b7-9872f6c8ddf0": {
+      "ProjectGuid": "fcaa2ddf-20ab-4f64-a5b7-9872f6c8ddf0",
+      "DisplayName": "PartialClass",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

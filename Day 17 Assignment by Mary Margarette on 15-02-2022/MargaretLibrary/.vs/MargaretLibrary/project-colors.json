@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4350954a-c723-4fdc-88f4-014c6dd8b79e": {
+      "ProjectGuid": "4350954a-c723-4fdc-88f4-014c6dd8b79e",
+      "DisplayName": "MargaretLibrary",
+      "ColorIndex": 0
+    },
+    "2c20f227-08ac-4d02-9fd7-0c8a1563c1f1": {
+      "ProjectGuid": "2c20f227-08ac-4d02-9fd7-0c8a1563c1f1",
+      "DisplayName": "MarLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

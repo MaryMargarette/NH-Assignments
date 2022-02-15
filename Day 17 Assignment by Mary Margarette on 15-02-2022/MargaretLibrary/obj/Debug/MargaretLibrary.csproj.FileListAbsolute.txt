@@ -1,0 +1,5 @@
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MargaretLibrary\obj\Debug\MargaretLibrary.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MargaretLibrary\bin\Debug\MargaretLibrary.dll
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MargaretLibrary\bin\Debug\MargaretLibrary.pdb
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MargaretLibrary\obj\Debug\MargaretLibrary.dll
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MargaretLibrary\obj\Debug\MargaretLibrary.pdb

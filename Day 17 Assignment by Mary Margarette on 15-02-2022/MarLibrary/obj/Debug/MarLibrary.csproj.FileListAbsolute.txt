@@ -1,0 +1,5 @@
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MarLibrary\bin\Debug\MarLibrary.dll
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MarLibrary\bin\Debug\MarLibrary.pdb
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MarLibrary\obj\Debug\MarLibrary.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MarLibrary\obj\Debug\MarLibrary.dll
+E:\NH Assignments\Day 17 Assignment by Mary Margarette on 15-02-2022\MarLibrary\obj\Debug\MarLibrary.pdb

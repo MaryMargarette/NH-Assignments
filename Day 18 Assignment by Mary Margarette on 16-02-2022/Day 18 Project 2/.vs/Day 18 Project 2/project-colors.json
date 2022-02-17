@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60e8a431-deb4-407f-8d31-8fde90f9de29": {
+      "ProjectGuid": "60e8a431-deb4-407f-8d31-8fde90f9de29",
+      "DisplayName": "Day 18 Project 2",
+      "ColorIndex": 0
+    },
+    "5f99cafe-c6b9-4762-b5aa-92399140a118": {
+      "ProjectGuid": "5f99cafe-c6b9-4762-b5aa-92399140a118",
+      "DisplayName": "Palindrome",
+      "ColorIndex": 1
+    },
+    "fca82b78-83b8-4d12-acc4-5b3aac8b6bf7": {
+      "ProjectGuid": "fca82b78-83b8-4d12-acc4-5b3aac8b6bf7",
+      "DisplayName": "PalindromeTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

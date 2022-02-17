@@ -1,0 +1,14 @@
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\bin\Debug\WindowsForm.exe.config
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\bin\Debug\WindowsForm.exe
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\bin\Debug\WindowsForm.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\bin\Debug\Mathematics.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\bin\Debug\Mathematics.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.csproj.CopyComplete
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.exe
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\WindowsForm\obj\Debug\WindowsForm.pdb

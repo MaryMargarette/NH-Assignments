@@ -1,0 +1,11 @@
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\bin\Debug\Day 18 Project 1.exe.config
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\bin\Debug\Day 18 Project 1.exe
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\bin\Debug\Day 18 Project 1.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\obj\Debug\Day 18 Project 1.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\obj\Debug\Day 18 Project 1.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\obj\Debug\Day 18 Project 1.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\obj\Debug\Day 18 Project 1.exe
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\obj\Debug\Day 18 Project 1.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\bin\Debug\Mathematics.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\bin\Debug\Mathematics.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Day 18 Project 1\obj\Debug\Day 18 Project 1.csproj.CopyComplete

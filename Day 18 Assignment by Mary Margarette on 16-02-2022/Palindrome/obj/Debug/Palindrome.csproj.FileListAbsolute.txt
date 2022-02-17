@@ -1,0 +1,5 @@
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Palindrome\bin\Debug\Palindrome.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Palindrome\bin\Debug\Palindrome.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Palindrome\obj\Debug\Palindrome.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Palindrome\obj\Debug\Palindrome.pdb

@@ -1,0 +1,17 @@
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\MathematicsTests.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\MathematicsTests.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Mathematics.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Mathematics.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\obj\Debug\MathematicsTests.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\obj\Debug\MathematicsTests.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\obj\Debug\MathematicsTests.csproj.CopyComplete
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\obj\Debug\MathematicsTests.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\MathematicsTests\obj\Debug\MathematicsTests.pdb

@@ -1,0 +1,17 @@
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\PalindromeTests.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\PalindromeTests.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Palindrome.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Palindrome.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\obj\Debug\PalindromeTests.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\obj\Debug\PalindromeTests.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\obj\Debug\PalindromeTests.csproj.CopyComplete
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\obj\Debug\PalindromeTests.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\PalindromeTests\obj\Debug\PalindromeTests.pdb

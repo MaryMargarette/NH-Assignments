@@ -1,0 +1,6 @@
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Mathematics\bin\Debug\Mathematics.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Mathematics\bin\Debug\Mathematics.pdb
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Mathematics\obj\Debug\Mathematics.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Mathematics\obj\Debug\Mathematics.dll
+E:\NH Assignments\Day 18 Assignment by Mary Margarette on 16-02-2022\Mathematics\obj\Debug\Mathematics.pdb

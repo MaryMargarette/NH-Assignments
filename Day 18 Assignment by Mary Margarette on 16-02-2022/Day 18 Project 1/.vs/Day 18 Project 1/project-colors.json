@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9108f799-91ee-4646-b11a-522684992579": {
+      "ProjectGuid": "9108f799-91ee-4646-b11a-522684992579",
+      "DisplayName": "Day 18 Project 1",
+      "ColorIndex": 0
+    },
+    "8fca16de-1831-46c1-b2a2-472ddd221c3a": {
+      "ProjectGuid": "8fca16de-1831-46c1-b2a2-472ddd221c3a",
+      "DisplayName": "Mathematics",
+      "ColorIndex": 1
+    },
+    "0beecdf1-658b-4261-b6a1-8f183dc7a9d7": {
+      "ProjectGuid": "0beecdf1-658b-4261-b6a1-8f183dc7a9d7",
+      "DisplayName": "MathematicsTests",
+      "ColorIndex": 2
+    },
+    "792522f2-3198-4e3f-a1ca-717c818d4a91": {
+      "ProjectGuid": "792522f2-3198-4e3f-a1ca-717c818d4a91",
+      "DisplayName": "WindowsForms",
+      "ColorIndex": 3
+    },
+    "958bf155-60d2-4902-b5fd-380a22de9d94": {
+      "ProjectGuid": "958bf155-60d2-4902-b5fd-380a22de9d94",
+      "DisplayName": "WindowsFormsApp",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4c0dd683-e0af-4c48-80e1-8f6684e4f17c": {
+      "ProjectGuid": "4c0dd683-e0af-4c48-80e1-8f6684e4f17c",
+      "DisplayName": "WindowsForm",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

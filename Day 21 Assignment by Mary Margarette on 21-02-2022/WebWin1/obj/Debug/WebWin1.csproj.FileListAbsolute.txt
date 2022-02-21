@@ -1,0 +1,11 @@
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\bin\Debug\WebWin1.exe.config
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\bin\Debug\WebWin1.exe
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\bin\Debug\WebWin1.pdb
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\obj\Debug\WebWin1.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\obj\Debug\WebWin1.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\obj\Debug\WebWin1.Form1.resources
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\obj\Debug\WebWin1.Properties.Resources.resources
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\obj\Debug\WebWin1.csproj.GenerateResource.cache
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\obj\Debug\WebWin1.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\obj\Debug\WebWin1.exe
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebWin1\obj\Debug\WebWin1.pdb

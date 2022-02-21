@@ -1,0 +1,8 @@
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebC0\bin\Debug\WebC0.exe.config
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebC0\bin\Debug\WebC0.exe
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebC0\bin\Debug\WebC0.pdb
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebC0\obj\Debug\WebC0.csproj.AssemblyReference.cache
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebC0\obj\Debug\WebC0.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebC0\obj\Debug\WebC0.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebC0\obj\Debug\WebC0.exe
+E:\NH Assignments\Day 21 Assignment by Mary Margarette on 21-02-2022\WebC0\obj\Debug\WebC0.pdb

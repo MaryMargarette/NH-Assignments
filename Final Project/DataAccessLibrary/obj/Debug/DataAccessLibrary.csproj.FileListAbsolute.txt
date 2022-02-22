@@ -1,0 +1,6 @@
+E:\NH Assignments\Final Project\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+E:\NH Assignments\Final Project\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+E:\NH Assignments\Final Project\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.AssemblyReference.cache
+E:\NH Assignments\Final Project\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Final Project\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+E:\NH Assignments\Final Project\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb

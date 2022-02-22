@@ -1,0 +1,8 @@
+E:\NH Assignments\Final Project\Practise\bin\Debug\Practise.exe.config
+E:\NH Assignments\Final Project\Practise\bin\Debug\Practise.exe
+E:\NH Assignments\Final Project\Practise\bin\Debug\Practise.pdb
+E:\NH Assignments\Final Project\Practise\obj\Debug\Practise.csproj.AssemblyReference.cache
+E:\NH Assignments\Final Project\Practise\obj\Debug\Practise.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Final Project\Practise\obj\Debug\Practise.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Final Project\Practise\obj\Debug\Practise.exe
+E:\NH Assignments\Final Project\Practise\obj\Debug\Practise.pdb

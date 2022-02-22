@@ -1,0 +1,9 @@
+E:\NH Assignments\Final Project\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+E:\NH Assignments\Final Project\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+E:\NH Assignments\Final Project\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.dll
+E:\NH Assignments\Final Project\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.pdb
+E:\NH Assignments\Final Project\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+E:\NH Assignments\Final Project\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Final Project\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+E:\NH Assignments\Final Project\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+E:\NH Assignments\Final Project\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

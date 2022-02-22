@@ -1,0 +1,13 @@
+E:\NH Assignments\Final Project\FinalProject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+E:\NH Assignments\Final Project\FinalProject\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+E:\NH Assignments\Final Project\FinalProject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\NH Assignments\Final Project\FinalProject\ClientApp\bin\Debug\ClientApp.exe.config
+E:\NH Assignments\Final Project\FinalProject\ClientApp\bin\Debug\ClientApp.exe
+E:\NH Assignments\Final Project\FinalProject\ClientApp\bin\Debug\ClientApp.pdb
+E:\NH Assignments\Final Project\FinalProject\ClientApp\bin\Debug\BusinessLogicLibrary.dll
+E:\NH Assignments\Final Project\FinalProject\ClientApp\bin\Debug\DataAccessLibrary.dll
+E:\NH Assignments\Final Project\FinalProject\ClientApp\bin\Debug\BusinessLogicLibrary.pdb
+E:\NH Assignments\Final Project\FinalProject\ClientApp\bin\Debug\DataAccessLibrary.pdb
+E:\NH Assignments\Final Project\FinalProject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+E:\NH Assignments\Final Project\FinalProject\ClientApp\obj\Debug\ClientApp.exe
+E:\NH Assignments\Final Project\FinalProject\ClientApp\obj\Debug\ClientApp.pdb
